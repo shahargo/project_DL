@@ -2,13 +2,13 @@
 readme = "README.md"
 ### After creating a project with this template, please modify these files
 # edit your project name
-name = "python-poetry-hooks-template"
+name = "python-DL"
 # edit your project's version. you can start with 0.1.0 for initial version
 version = "0.1.0"
 # edit your project's description
-description = "A template for python projects with pre-commit hooks, poetry, mypy and pytest"
+description = "project in DL course"
 # edit your projects' authors
-authors = ["Aviad Rozenhek <aviadr1@gmail.com>"]
+authors = ["shahar gottliv <shahargot48@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
